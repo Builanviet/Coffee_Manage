@@ -1,0 +1,17 @@
+D:\PRN211\KATINAT\KATINAT_COFFEE\bin\Debug\net6.0-windows\KATINAT_COFFEE.exe
+D:\PRN211\KATINAT\KATINAT_COFFEE\bin\Debug\net6.0-windows\KATINAT_COFFEE.deps.json
+D:\PRN211\KATINAT\KATINAT_COFFEE\bin\Debug\net6.0-windows\KATINAT_COFFEE.runtimeconfig.json
+D:\PRN211\KATINAT\KATINAT_COFFEE\bin\Debug\net6.0-windows\KATINAT_COFFEE.dll
+D:\PRN211\KATINAT\KATINAT_COFFEE\bin\Debug\net6.0-windows\KATINAT_COFFEE.pdb
+D:\PRN211\KATINAT\KATINAT_COFFEE\obj\Debug\net6.0-windows\KATINAT_COFFEE.csproj.AssemblyReference.cache
+D:\PRN211\KATINAT\KATINAT_COFFEE\obj\Debug\net6.0-windows\KATINAT_COFFEE.fLogin.resources
+D:\PRN211\KATINAT\KATINAT_COFFEE\obj\Debug\net6.0-windows\KATINAT_COFFEE.csproj.GenerateResource.cache
+D:\PRN211\KATINAT\KATINAT_COFFEE\obj\Debug\net6.0-windows\KATINAT_COFFEE.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\KATINAT\KATINAT_COFFEE\obj\Debug\net6.0-windows\KATINAT_COFFEE.AssemblyInfoInputs.cache
+D:\PRN211\KATINAT\KATINAT_COFFEE\obj\Debug\net6.0-windows\KATINAT_COFFEE.AssemblyInfo.cs
+D:\PRN211\KATINAT\KATINAT_COFFEE\obj\Debug\net6.0-windows\KATINAT_COFFEE.csproj.CoreCompileInputs.cache
+D:\PRN211\KATINAT\KATINAT_COFFEE\obj\Debug\net6.0-windows\KATINAT_COFFEE.dll
+D:\PRN211\KATINAT\KATINAT_COFFEE\obj\Debug\net6.0-windows\refint\KATINAT_COFFEE.dll
+D:\PRN211\KATINAT\KATINAT_COFFEE\obj\Debug\net6.0-windows\KATINAT_COFFEE.pdb
+D:\PRN211\KATINAT\KATINAT_COFFEE\obj\Debug\net6.0-windows\KATINAT_COFFEE.genruntimeconfig.cache
+D:\PRN211\KATINAT\KATINAT_COFFEE\obj\Debug\net6.0-windows\ref\KATINAT_COFFEE.dll

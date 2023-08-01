@@ -1,0 +1,10 @@
+HÓA ĐƠN
+---------------------
+Mã hóa đơn: 34
+Ngày thanh toán: 7/16/2023 5:10:58 PM
+---------------------
+Sản phẩm	Số lượng	Đơn giá	Thành tiền
+Cappuccino		5		50		250
+Latte with flavors		2		52		104
+---------------------
+Tổng tiền: 354

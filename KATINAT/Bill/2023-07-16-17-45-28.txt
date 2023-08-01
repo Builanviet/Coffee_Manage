@@ -1,0 +1,10 @@
+HÓA ĐƠN
+---------------------
+Mã hóa đơn: 40
+Ngày thanh toán: 7/16/2023 5:45:28 PM
+---------------------
+Sản phẩm			Số lượng			Đơn giá			Thành tiền
+Honey Chamomile Tea			7			57				399
+Latte with flavors			10			52				520
+---------------------
+Tổng tiền: 919

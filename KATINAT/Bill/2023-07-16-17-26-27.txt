@@ -1,0 +1,9 @@
+HÓA ĐƠN
+---------------------
+Mã hóa đơn: 36
+Ngày thanh toán: 7/16/2023 5:26:27 PM
+---------------------
+Sản phẩm			Số lượng			Đơn giá			Thành tiền
+Latte with flavors		4		52		208
+---------------------
+Tổng tiền: 208

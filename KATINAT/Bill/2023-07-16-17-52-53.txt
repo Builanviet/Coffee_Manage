@@ -1,0 +1,10 @@
+HÓA ĐƠN
+---------------------
+Mã hóa đơn: 42
+Ngày thanh toán: 7/16/2023 5:52:53 PM
+---------------------
+Sản phẩm			Số lượng			Đơn giá			Thành tiền
+Latte with flavors			6			52				312
+Katinat Lemongrass			6			40				240
+---------------------
+Tổng tiền: 552

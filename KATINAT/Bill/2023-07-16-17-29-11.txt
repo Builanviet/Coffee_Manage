@@ -1,0 +1,10 @@
+HÓA ĐƠN
+---------------------
+Mã hóa đơn: 38
+Ngày thanh toán: 7/16/2023 5:29:11 PM
+---------------------
+Sản phẩm			Số lượng			Đơn giá			Thành tiền
+Honey Chamomile Tea				7				57				399
+Americano				11				35				385
+---------------------
+Tổng tiền: 784

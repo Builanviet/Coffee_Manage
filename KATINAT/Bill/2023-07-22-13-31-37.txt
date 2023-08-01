@@ -1,0 +1,9 @@
+HÓA ĐƠN
+---------------------
+Mã hóa đơn: 1
+Ngày thanh toán: 7/22/2023 1:31:37 PM
+---------------------
+Sản phẩm			Số lượng			Đơn giá			Thành tiền
+Espresso classic			45			50				2250
+---------------------
+Tổng tiền: 2250

@@ -1,0 +1,10 @@
+HÓA ĐƠN
+---------------------
+Mã hóa đơn: 53
+Ngày thanh toán: 7/17/2023 2:18:29 PM
+---------------------
+Sản phẩm			Số lượng			Đơn giá			Thành tiền
+Katinat Chocolate			5			55				275
+Peach Hibiscus Tea			5			65				325
+---------------------
+Tổng tiền: 600

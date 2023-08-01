@@ -1,0 +1,17 @@
+D:\PRN211\KATINAT\KATINAT\bin\Debug\net6.0-windows\KATINAT.exe
+D:\PRN211\KATINAT\KATINAT\bin\Debug\net6.0-windows\KATINAT.deps.json
+D:\PRN211\KATINAT\KATINAT\bin\Debug\net6.0-windows\KATINAT.runtimeconfig.json
+D:\PRN211\KATINAT\KATINAT\bin\Debug\net6.0-windows\KATINAT.dll
+D:\PRN211\KATINAT\KATINAT\bin\Debug\net6.0-windows\KATINAT.pdb
+D:\PRN211\KATINAT\KATINAT\obj\Debug\net6.0-windows\KATINAT.csproj.AssemblyReference.cache
+D:\PRN211\KATINAT\KATINAT\obj\Debug\net6.0-windows\KATINAT.csproj.GenerateResource.cache
+D:\PRN211\KATINAT\KATINAT\obj\Debug\net6.0-windows\KATINAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\KATINAT\KATINAT\obj\Debug\net6.0-windows\KATINAT.AssemblyInfoInputs.cache
+D:\PRN211\KATINAT\KATINAT\obj\Debug\net6.0-windows\KATINAT.AssemblyInfo.cs
+D:\PRN211\KATINAT\KATINAT\obj\Debug\net6.0-windows\KATINAT.csproj.CoreCompileInputs.cache
+D:\PRN211\KATINAT\KATINAT\obj\Debug\net6.0-windows\KATINAT.dll
+D:\PRN211\KATINAT\KATINAT\obj\Debug\net6.0-windows\refint\KATINAT.dll
+D:\PRN211\KATINAT\KATINAT\obj\Debug\net6.0-windows\KATINAT.pdb
+D:\PRN211\KATINAT\KATINAT\obj\Debug\net6.0-windows\KATINAT.genruntimeconfig.cache
+D:\PRN211\KATINAT\KATINAT\obj\Debug\net6.0-windows\ref\KATINAT.dll
+D:\PRN211\KATINAT\KATINAT\obj\Debug\net6.0-windows\KATINAT.fLogin.resources

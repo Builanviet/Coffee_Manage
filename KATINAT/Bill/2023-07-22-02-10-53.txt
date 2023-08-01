@@ -1,0 +1,10 @@
+HÓA ĐƠN
+---------------------
+Mã hóa đơn: 2
+Ngày thanh toán: 7/22/2023 2:10:53 AM
+---------------------
+Sản phẩm			Số lượng			Đơn giá			Thành tiền
+Cappuchino			15			60				900
+Espresso			1			53				53
+---------------------
+Tổng tiền: 953

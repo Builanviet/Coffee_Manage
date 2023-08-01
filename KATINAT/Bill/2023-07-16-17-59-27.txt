@@ -1,0 +1,9 @@
+HÓA ĐƠN
+---------------------
+Mã hóa đơn: 44
+Ngày thanh toán: 7/16/2023 5:59:27 PM
+---------------------
+Sản phẩm			Số lượng			Đơn giá			Thành tiền
+Katinat Lemongrass			4			40				160
+---------------------
+Tổng tiền: 160
